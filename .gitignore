@@ -1,0 +1,19 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Coverage output
+*.out
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Editor/OS cruft
+.idea/
+.vscode/
+.DS_Store
